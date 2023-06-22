@@ -1,10 +1,8 @@
 #!/bin/bash
 <<doc
 Name : Pragati Kumari
-Date : 
-Title : 
-Sample I/P :
-Sample O/P :
+Date : 23/06/2023
+Title : Digital Clock
 doc
 
 red=$'\e[1;31m'
